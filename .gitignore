@@ -1,0 +1,8 @@
+.DS_Store
+PoseDetectionUnityPlugin/.vscode/settings.json
+*.csproj
+PoseDetectionUnityPlugin/Library/
+PoseDetectionUnityPlugin/Temp/
+PoseDetectionUnityPlugin/xcodeProject/
+PoseDetectionUnityPlugin/xcodeProject/
+PoseDetectionUnityPlugin/obj/
